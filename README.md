@@ -1,7 +1,7 @@
 # Tetris
 tetris
 
-#build the project 
+# build the project 
 clone or download this repo
 cd to the location 
 run
