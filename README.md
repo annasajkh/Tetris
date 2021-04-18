@@ -1,5 +1,5 @@
 # Tetris
-tetris
+simple tetris i made
 
 # build the project 
 clone or download this repo
