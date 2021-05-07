@@ -2,8 +2,8 @@
 simple tetris i made
 
 # build the project 
-clone or download this repo/
-cd to the location /
+clone or download this repo\
+cd to the location \
 run\
 ./gradlew\
 and then run\
